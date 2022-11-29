@@ -1,8 +1,3 @@
-<!--
- * @Descripttion: 
- * @Author: yu@w
- * @Date: 2022-11-29 17:27:45
--->
 ---
 name: 建议新功能（Feature Request）
 about: 对 钮矿 提出改善建议

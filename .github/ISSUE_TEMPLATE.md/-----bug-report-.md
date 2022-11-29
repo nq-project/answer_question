@@ -1,8 +1,3 @@
-<!--
- * @Descripttion: 
- * @Author: yu@w
- * @Date: 2022-11-29 17:27:55
--->
 ---
 name: 报告问题（Bug report）
 about: 详细描述你遇到的问题并寻求社区帮助
